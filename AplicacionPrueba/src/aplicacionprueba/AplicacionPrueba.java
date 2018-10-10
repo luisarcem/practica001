@@ -16,6 +16,8 @@ public class AplicacionPrueba {
      */
     public static void main(String[] args) {
         // TODO code application logic here
+        //modificando el fuente de mi aplicaion 
+        System.out.println("hola mundo");
     }
     
 }
